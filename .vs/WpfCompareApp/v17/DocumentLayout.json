@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WindowsApp\\WpfCompareApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|e:\\windowsapp\\wpfcompareapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|E:\\WindowsApp\\WpfCompareApp\\helpers\\printedclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:helpers\\printedclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|E:\\WindowsApp\\WpfCompareApp\\helpers\\onnxclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:helpers\\onnxclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|E:\\WindowsApp\\WpfCompareApp\\helpers\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:helpers\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|E:\\WindowsApp\\WpfCompareApp\\models\\comparisonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:models\\comparisonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|E:\\WindowsApp\\WpfCompareApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|E:\\WindowsApp\\WpfCompareApp\\wpfcompareapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5614B089-0B7E-4134-B885-98843FF2EB25}|WpfCompareApp.csproj|solutionrelative:wpfcompareapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintedClassifier.cs",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\Helpers\\PrintedClassifier.cs",
+              "RelativeDocumentMoniker": "Helpers\\PrintedClassifier.cs",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\Helpers\\PrintedClassifier.cs",
+              "RelativeToolTip": "Helpers\\PrintedClassifier.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:58:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnnxClassifier.cs",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\Helpers\\OnnxClassifier.cs",
+              "RelativeDocumentMoniker": "Helpers\\OnnxClassifier.cs",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\Helpers\\OnnxClassifier.cs",
+              "RelativeToolTip": "Helpers\\OnnxClassifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:19:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WpfCompareApp",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\WpfCompareApp.csproj",
+              "RelativeDocumentMoniker": "WpfCompareApp.csproj",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\WpfCompareApp.csproj",
+              "RelativeToolTip": "WpfCompareApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T01:39:54.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageProcessor.cs",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\Helpers\\ImageProcessor.cs",
+              "RelativeDocumentMoniker": "Helpers\\ImageProcessor.cs",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\Helpers\\ImageProcessor.cs",
+              "RelativeToolTip": "Helpers\\ImageProcessor.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:06:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T00:57:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAQwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:57:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComparisonResult.cs",
+              "DocumentMoniker": "E:\\WindowsApp\\WpfCompareApp\\Models\\ComparisonResult.cs",
+              "RelativeDocumentMoniker": "Models\\ComparisonResult.cs",
+              "ToolTip": "E:\\WindowsApp\\WpfCompareApp\\Models\\ComparisonResult.cs",
+              "RelativeToolTip": "Models\\ComparisonResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:08:37.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
